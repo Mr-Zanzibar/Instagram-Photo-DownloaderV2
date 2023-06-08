@@ -4,7 +4,7 @@ import instaloader
 # create an instance of Instaloader
 loader = instaloader.Instaloader()
 
-# enter your Instagram username and password
+# enter your Instagram username and password, do not worry it's safe, if you have trust issues you can always use a second account.
 username = ""
 password = ""
 
