@@ -5,6 +5,6 @@ V2 version of the insta acc scraper
 
 - Install [Python](www.python.org/download)
 
-- Click on install.bat or just write __pip install instaloader__ in the cmd
+- Click on install.bat or just write '''pip install instaloader''' in the cmd
 
 - Click on start.bat
