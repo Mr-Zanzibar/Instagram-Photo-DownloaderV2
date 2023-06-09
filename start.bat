@@ -1,4 +1,15 @@
 @echo off
-title Instagram Account Scraper by Mr-Zanzibar
+TITLE Instagram-Scraper
+
+pip install instaloader
+pip install colorama
+pip install pyfiglet
+pip install rich
+
+cls
+
+REM Esegui lo script
 python insta.py
+
 pause
+
