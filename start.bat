@@ -1,5 +1,5 @@
 @echo off
-TITLE Instagram-Account-Scraper by Mr-Zanzibar
+TITLE Instagram-Photo-Downloader by Mr-Zanzibar
 REM Check if python is installed, if not proceed to the download from the site
 python --version >nul 2>&1
 if %errorlevel% equ 0 (
