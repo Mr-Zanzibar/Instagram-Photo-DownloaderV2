@@ -14,7 +14,7 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(me
 def print_banner():
     f = Figlet(font="banner3-D")
     banner = f.renderText("Insta-Scraper")
-    console.print(banner, "By Mr-Zanzibar, Don.Zanzibar#3562", style="bold green")
+    console.print(banner, "By Mr-Zanzibar, don.zanzibar (on discord)", style="bold green")
 
 def prompt_credentials():
     console.print("Enter your Instagram username:", style="blue", end=" ")
