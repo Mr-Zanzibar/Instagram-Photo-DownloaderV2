@@ -14,8 +14,13 @@ V2 version of the insta acc scraper
 ## Common Issue
 
 - if you get
+- 
 |JSON Query to accounts/login/: Could not find "window._sharedData" in html response.|
 
 error
+
+please run cookies.py file
+
+and if you still get that error please go to this (https://instaloader.github.io/search.html?q=login)[Website]
 
 
