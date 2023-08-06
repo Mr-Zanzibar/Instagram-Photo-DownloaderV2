@@ -14,7 +14,7 @@ V2 version of the insta acc scraper
 ## Common Issue
 
 - if you get
-"""JSON Query to accounts/login/: Could not find "window._sharedData" in html response."""
+'''JSON Query to accounts/login/: Could not find "window._sharedData" in html response.'''
 
 error
 
