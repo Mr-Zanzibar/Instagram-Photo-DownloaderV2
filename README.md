@@ -19,7 +19,7 @@ V2 version of the insta acc scraper
 
 error
 
-please run cookies.py file
+please run [cookies.py](https://github.com/Mr-Zanzibar/Instagram-Photo-DownloaderV2/blob/main/cookies.py) file
 
 and if you still get that error please go to this [Website](https://instaloader.github.io/search.html?q=login)
 
