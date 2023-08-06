@@ -21,6 +21,6 @@ error
 
 please run cookies.py file
 
-and if you still get that error please go to this (https://instaloader.github.io/search.html?q=login)[Website]
+and if you still get that error please go to this [Website](https://instaloader.github.io/search.html?q=login)
 
 
