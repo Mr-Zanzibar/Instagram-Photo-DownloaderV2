@@ -1,4 +1,4 @@
-# Instgram-Photo-DownloaderV2
+# Instagram-Photo-DownloaderV2
 V2 version of the insta acc scraper
 
 # How to start
