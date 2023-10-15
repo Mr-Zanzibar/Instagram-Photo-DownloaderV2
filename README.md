@@ -5,7 +5,7 @@ V2 version of the insta acc scraper
 
 - Click on start.bat
 
-- Firefox browser recommended
+- [FireFox](https://www.mozilla.org/en-US/firefox/new/) browser recommended
 
 ## Updates
 
